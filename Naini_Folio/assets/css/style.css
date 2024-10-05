@@ -2,6 +2,18 @@ body {
   background-color: #f5f5f5;
   color: #4e4e4e;
 }
+.row{
+  
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.edcol{
+  border: 2px solid pink;
+  width: 80%;
+  height: 30%;
+}
 
 h1,
 h2,
